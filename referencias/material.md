@@ -42,6 +42,7 @@
 
 - Jerarquía: sentencia firme, sentencia recurrida, acusación, prensa.
 - Separar hechos probados, tesis de la fiscalía y tesis de la defensa.
+- Dar el resultado completo del juicio: por qué cargos hubo condena, por cuáles absolución y en cuáles no hubo veredicto. Decir solo "fue condenada" omite la mitad del caso.
 - En casos antiguos, preferir testimonios contemporáneos a recuerdos posteriores; la memoria se contamina con lo publicado.
 - Distinguir caso cerrado, archivado, sin resolver y reabierto.
 
