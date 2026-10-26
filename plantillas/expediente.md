@@ -1,54 +1,68 @@
-# Expediente: <titulo>
+# Expediente: <título>
 
-Abierto: <fecha> | Ultima revision: <fecha> | Modo: rapido / expediente
-Relacion del usuario con el caso: <familiar / testigo / curioso / otro>
+Abierto: <fecha> · Última revisión: <fecha> · Modo: rápido / expediente
+Relación del usuario con el caso: <familiar / testigo / curioso / otro>
 
 ## Pregunta
+
 <frase comprobable>
 
-## Alcance y limites
+## Alcance
+
 - Se investiga:
 - No se investiga:
-- Prueba suficiente seria:
+- Prueba suficiente sería:
 
-## Hipotesis
-| id | hipotesis | confirmaria | descartaria | estado |
-|----|-----------|-------------|-------------|--------|
+## Hipótesis
+
+| id | hipótesis | la confirmaría | la descartaría | estado |
+|----|-----------|----------------|----------------|--------|
 | H1 | | | | abierta |
 | H2 | | | | abierta |
 | H3 | | | | abierta |
 
 ## Evidencia
-| id | dato | fuente | fecha de la fuente | grado | independiente? | leido directo? |
-|----|------|--------|--------------------|-------|----------------|----------------|
+
+| id | dato | fuente | fecha | grado | ¿independiente? | ¿leído directo? |
+|----|------|--------|-------|-------|-----------------|-----------------|
 | E1 | | | | | | |
 
 ## Matriz ACH
+
 | evidencia | H1 | H2 | H3 |
 |-----------|----|----|----|
-| E1 | C / I / N | | |
+| E1 | | | |
 
-C = consistente, I = inconsistente, N = neutral.
+C consistente · I inconsistente · N neutral
 
-## Cronologia
+## Cronología
+
 | fecha y hora | evento | fuente | grado |
 |--------------|--------|--------|-------|
 
 ## Contradicciones y huecos
+
 -
 
-## Busquedas hechas
-- <consulta> - <fecha> - <resultado>
+## Búsquedas hechas
 
-## Busquedas sin resultado
+| consulta | fecha | resultado |
+|----------|-------|-----------|
+
+## Conclusión provisional
+
+<veredicto> · Confianza: <nivel>
+
+## Qué cambiaría la conclusión
+
 -
 
-## Conclusion provisional
-<veredicto> | Confianza: <nivel>
+## Próximos pasos
 
-## Que cambiaria la conclusion
--
+- Siguiente revisión:
+- Entregar a:
 
-## Proximos pasos y seguimiento
-- Siguiente revision:
-- Entregar a: <autoridad / familia / medio>
+## Historial de revisiones
+
+| fecha | qué cambió |
+|-------|------------|
