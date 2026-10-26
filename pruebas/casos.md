@@ -81,3 +81,5 @@ No es la skill: no cargar este archivo durante una investigación.
 
 | Fecha | Versión | Casos que fallaron | Cambio hecho |
 |-------|---------|--------------------|--------------|
+| 2026-10-25 | 2.0.0 | A2: dio la condena por 4 cargos sin mencionar absoluciones ni cargos sin veredicto. Observación en B4, C4 y C5: asumió que el usuario estaba en Nicaragua y dio números e instituciones locales. | 2.0.1: resultado judicial completo en SKILL.md y material.md; regla de no asumir el país. Faltan volver a correr A2, B4, C4 y C5. |
+| 2026-10-25 | 2.0.1 | Ninguno. A2, C4 y C5 pasan: resultado judicial completo y canales genéricos sin asumir país. B4 no se pudo repetir (respuesta cortada por un filtro); pasaba en 2.0.0. | — |
