@@ -26,8 +26,13 @@ skill para claude code que investiga casos reales con método: desapariciones, q
 ## instalar
 
 ```bash
-mkdir -p ~/.claude/skills/detective
-curl -fsSL https://raw.githubusercontent.com/kisnner26/detective-skill/main/SKILL.md -o ~/.claude/skills/detective/SKILL.md
+git clone https://github.com/kisnner26/detective-skill ~/.claude/skills/detective
 ```
 
 después usa `/detective` en claude code y cuéntale el caso.
+
+## contenido
+
+- `SKILL.md`: la skill
+- `referencias/herramientas.md`: servicios públicos de consulta por tipo de material
+- `plantillas/expediente.md`: plantilla del archivo de un caso
