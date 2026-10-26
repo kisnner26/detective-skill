@@ -9,7 +9,11 @@ skill para claude code que investiga casos reales con método: desapariciones, q
 - compara hipótesis con una matriz ach: gana la que menos evidencia en contra tiene
 - arma cronología, contradicciones y huecos
 - separa hecho, inferencia y especulación, con una escala fija de confianza
-- entrega un reporte con veredicto, fuentes y qué evidencia cambiaría la conclusión
+- detecta eco entre medios (varias notas con una sola fuente) y recalcula fechas y cifras
+- tiene un protocolo para casos con poca información: no rellena huecos
+- pasa una lista de control de calidad antes de entregar
+- entrega un reporte con veredicto, fuentes, límites del análisis y qué evidencia cambiaría la conclusión
+- guarda el caso en un archivo para retomarlo
 
 ## límites
 
