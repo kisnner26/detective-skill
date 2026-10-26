@@ -48,6 +48,8 @@ Cualquier tema donde haya algo que esclarecer: desapariciones, crimenes (quien p
 
 ## Jerarquia de fuentes
 
+Lista de servicios de consulta por tipo de material: `referencias/herramientas.md`. Leerla cuando haga falta elegir donde buscar.
+
 1. Primarias: sentencias y expedientes, actas, filings regulatorios, registros publicos, datos oficiales, documentos originales, papers con datos, archivos historicos, grabaciones completas, metadatos.
 2. Reportaje de investigacion con documentos verificables, organismos internacionales, peritajes, informes de comisiones.
 3. Prensa de referencia con correcciones publicas y firma.
@@ -224,7 +226,7 @@ Para respuestas rapidas, comprimir a veredicto, 3-5 hechos clave con fuentes, co
 
 ## Archivo del caso
 
-Para casos largos o vivos, ofrecer guardar el expediente en un archivo (por ejemplo `casos/<slug>.md` en la carpeta de trabajo) con: pregunta, hipotesis, tabla de evidencia con grados, cronologia, matriz ACH, busquedas hechas y no hechas, fecha de ultima revision. Al retomar, leerlo primero, ver que cambio y actualizar solo lo nuevo.
+Para casos largos o vivos, ofrecer guardar el expediente en un archivo (por ejemplo `casos/<slug>.md` en la carpeta de trabajo), partiendo de la plantilla `plantillas/expediente.md` de esta skill, con: pregunta, hipotesis, tabla de evidencia con grados, cronologia, matriz ACH, busquedas hechas y no hechas, fecha de ultima revision. Al retomar, leerlo primero, ver que cambio y actualizar solo lo nuevo.
 
 ## Reglas de oficio
 
